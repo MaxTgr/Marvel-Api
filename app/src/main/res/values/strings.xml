@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="loading">LOADING</string>
+    <string name="connection">No connection</string>
+    <string name="no_desc">No description available</string>
+    <string name="action_reload">Reload</string>
+    <string name="comic">Comics</string>
+    <string name="event">Events</string>
+    <string name="num">000</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--main-->
+    <dimen name="main_margin">16dp</dimen>
+    <dimen name="main_margin_content">24dp</dimen>
+
+    <!--card-->
+    <dimen name="img_holder_w">72dp</dimen>
+    <dimen name="img_holder_h">96dp</dimen>
+
+    <dimen name="decoration_margin">8dp</dimen>
+    <dimen name="decoration_edge">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
