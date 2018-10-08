@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Desafio</string>
+    <string name="app_name">Marvel</string>
     <string name="loading">LOADING</string>
     <string name="connection">No connection</string>
     <string name="no_desc">No description available</string>
