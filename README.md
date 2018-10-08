@@ -2,7 +2,7 @@
 A project for android using the public marvel API
 
 # Build
-- Put your own apikeys on [ApiCall](./app/src/main/java/me/maxcostadev/desafio/helper/ApiCall.kt)
+- Put your own apikeys on [ApiCall](./app/src/main/java/me/maxcostadev/desafio/helper/ApiCall.kt) Line 20 and 21
 - Build your project with Android studio, no command or external tools required, graddle will install everything you need
 
 # Usage
